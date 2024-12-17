@@ -5,7 +5,7 @@ Data Analyst 📊 | Marketing Nerd 💡| Non-Competitive-Gamer 🎲 <br>
 <br>
 I’m a passionate, problem-solving, personable, tea-sipping creative, who is obsessed with turning data into valuable insights. 
 <br>
-I have spent the last decade in the financial industry where I gained a vast variety of skills and knowledge. My latest role was as a Credit Analyst. I have a passion for people. I love helping people. It was through years of helping people navigate their finances through building spreadsheets, budgets, and relationships that I found my love of analytics. I have an endless curiosity and desire to learn new skills; which lead me to obtain my BAA in Digital Marketing in 2022. I love helping organizations solve their problems with my out of the box thinking. I wanted to gain the skills needed to enter the world of Data Analytics and I found my way Nashville Software School, the rest is history. 
+I have spent the last decade in the financial industry where I gained a vast variety of skills and knowledge. My latest role was as a Credit Analyst. I have a passion for people. I love helping people. It was through years of helping people navigate their finances through building spreadsheets, budgets, and relationships that I found my love of analytics. I have an endless curiosity and desire to learn new skills; which lead me to obtain my BBA in Digital Marketing in 2022. I love helping organizations solve their problems with my out of the box thinking. I wanted to gain the skills needed to enter the world of Data Analytics and I found my way Nashville Software School, the rest is history. 
 <br> 
 
 🔭 I'm currently working on *finalizing my capstone project before hittting the job boards* <br>
