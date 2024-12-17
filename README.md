@@ -3,9 +3,9 @@
 ## Hello there👋, *I'm Jenna* <br>
 Data Analyst 📊 | Marketing Nerd 💡| Non-Competitive-Gamer 🎲 <br>
 <br>
-I’m a passionate, problem-solving, personable, tea-sipping creative, who is obsessed with turning data into valuable insights. 
+I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a love for transforming data into meaningful insights.
 <br>
-I have spent the last decade in the financial industry where I gained a vast variety of skills and knowledge. My latest role was as a Credit Analyst. I have a passion for people. I love helping people. It was through years of helping people navigate their finances through building spreadsheets, budgets, and relationships that I found my love of analytics. I have an endless curiosity and desire to learn new skills; which lead me to obtain my BBA in Digital Marketing in 2022. I love helping organizations solve their problems with my out of the box thinking. I wanted to gain the skills needed to enter the world of Data Analytics and I found my way Nashville Software School, the rest is history. 
+Over the past decade, I’ve gained a diverse set of skills in the financial industry, with my most recent role as a Credit Analyst. Along the way I found a deep connection to analytics and my curosity and investigative tendencies led me to pursue a BBA in Digital Marketing in 2022. My journey into Data Analytics brought me to Nashville Software School, where learned tangible and real world skills that will follow me long into my career. Today I'm excited to apply my out-of-the-box thinking to help my next team communicate key insights through the amazing world that is Data Analytics. 
 <br> 
 
 🔭 I'm currently working on *finalizing my capstone project before hittting the job boards* <br>
