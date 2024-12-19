@@ -3,7 +3,7 @@
 ## Hello there👋, *I'm Jenna* <br>
 Data Analyst 📊 | Marketing Nerd 💡| Non-Competitive-Gamer 🎲 <br>
 <br>
-I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a love for transforming ordinary numbers into magical insights
+I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a love for transforming ordinary numbers into magical insights. <br>
 <br>
 Over the past decade, I’ve gained a diverse set of skills in the financial industry, with my most recent role as a Credit Analyst. Data is so much fun because I get to leverage my curiosity to follow the numbers, transforming them into captivating visuals that tell us a story. 
 <br> 
