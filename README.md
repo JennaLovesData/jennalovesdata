@@ -8,21 +8,21 @@ I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a
 Over the past decade, I’ve gained a diverse set of skills in the financial industry, with my most recent role as a Credit Analyst. Data is so much fun because I get to leverage my curiosity to follow the numbers, transforming them into captivating visuals that tell us a story. 
 <br> 
 
-🔭 I'm currently working on *finalizing my capstone project before hittting the job boards* <br>
+🔭 I'm currently working on *finalizing my capstone project before hittting the job boards come January* <br>
 <br>
 🌱 I'm learning *how to master my Geospatial Python skills* <br>
 <br>
-👯 I'm looking to collaborate on *any data analysis project you may need help with.* <br>
+👯 I'm looking to collaborate on *data analysis projects where I can make visually appealing dashboards.* <br>
 <br>
-🤝 I’m looking for help with
+🤝 I’m looking for help with *finding mentors who want to give me feedback and advice along my data analytics journey.*
 <br> 
-📫 How to reach me
+📫 How to reach me *I'll link my LinkedIn and email below.*
 <br>
-📄 Know about my experiences
+📄 Know about my experiences 
 <br>
 ⚡ Fun fact
 <br>
-💬 Ask me about *anything related to board games*
+💬 Ask me about *my favorite SQL functions, houseplants, or when I'm running the next Blood on the Clocktower night. *
 
 
 ## 🤝 Let's Connect 
