@@ -25,9 +25,9 @@ Over the past decade, I’ve gained a diverse set of skills in the financial ind
 💬 Ask me about *my favorite SQL functions, houseplants, or when I'm running the next Blood on the Clocktower night. *
 
 
-## 🤝 Let's Connect 
-<br>
-<br>
+## 🤝 Let's Connect
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jennamcarlson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jennamcarlson?trk=profile-badge">Jenna Carlson</a></div>
+              
 
 ## 💼 Technical Skills 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
