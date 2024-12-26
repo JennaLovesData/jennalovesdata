@@ -10,20 +10,18 @@ Over the past decade, I’ve gained a diverse set of skills in the financial ind
 
 🔭 I'm currently working on *finalizing my capstone project before hittting the job boards come January* <br>
 <br>
-🌱 I'm learning *how to master my Geospatial Python skills* <br>
+🌱 I'm learning *how to master my Geospatial Python skills...g* <br>
 <br>
 👯 I'm looking to collaborate on *data analysis projects where I can make visually appealing dashboards.* <br>
 <br>
-🤝 I’m looking for help with *finding mentors who want to give me feedback and advice along my data analytics journey.*
+🤝 I’m looking for help with *finding mentors who want to give me feedback and advice along my data analytics journey.* <br>
 <br> 
-📫 How to reach me *I'll link my LinkedIn and email below.*
+📫 How to reach me *I'll link my LinkedIn and email below.* <br>
 <br>
-📄 Know about my experiences 
-<br>
-⚡ Fun fact: 
+⚡ Fun fact: I have no idea how to swim <br>
 <br>
 💬 Ask me about *my favorite SQL functions, houseplants, or when I'm running the next Blood on the Clocktower night.*
-
+<br>
 
 ## 🤝 Let's Connect
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jennamcarlson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jennamcarlson?trk=profile-badge">Jenna Carlson</a></div>
