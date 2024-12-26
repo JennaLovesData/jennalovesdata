@@ -20,9 +20,9 @@ Over the past decade, I’ve gained a diverse set of skills in the financial ind
 <br>
 📄 Know about my experiences 
 <br>
-⚡ Fun fact
+⚡ Fun fact: 
 <br>
-💬 Ask me about *my favorite SQL functions, houseplants, or when I'm running the next Blood on the Clocktower night. *
+💬 Ask me about *my favorite SQL functions, houseplants, or when I'm running the next Blood on the Clocktower night.*
 
 
 ## 🤝 Let's Connect
