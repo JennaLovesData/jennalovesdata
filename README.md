@@ -1,50 +1,109 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nixie+One&size=22&pause=1000&color=F7CCEC&width=435&lines=Welcome+to+my+GitHub!+)](https://git.io/typing-svg)<br>
 
-## Hello there👋, *I'm Jenna* <br>
-Data Analyst 📊 | Marketing Nerd 💡| Non-Competitive-Gamer 🎲 <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone!"/> 
+  </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Nixie+One&size=25&pause=1000&color=F7CCEC&width=435&lines=Hi there! Welcome+to+my+GitHub!"/>
+</p>
+
+## 👋 *I'm Jenna* <br>
+
+I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a love for transforming ordinary numbers into magical insights. Over the past decade, I’ve gained a diverse set of skills in the financial industry, with my most recent role as a Credit Analyst. Data is so much fun because I get to leverage my curiosity to follow the numbers, transforming them into captivating visuals that tell us a story. 
+
+
+
+
+```yaml
+name: Jenna Carlson
+located_in: Nashville, TN
+current_job: Looking for awesome opportunity in Data Analytics 
+
+education:
+     [
+        "Nashville Software School Apprenticeship, 2025",
+	"Bachelors of Business Administration - Digital Marketing, 2022",
+     ]
+
+company: could be yours
+
+fields_of_interests:
+       [
+	 "marketing",
+         "finance",
+	 "business intelligence",
+         "e-commerce",
+         "health care",
+       ]
+
+technical_background:
+       [
+         "Data Analytics Apprentice",
+         "Credit Analyst",
+       ]
+
+currently_learning: ["Advanced SQL functions, DAX, and additional dashboarding capabilities"]
+2025_goals: ["Land an awesome job and create 20+ projects using at least 5 new skills."]
+hobbies: ["Gaming", "Board Games", "Indy Wrestling", "Painting", "Making Dashboards", "Socializing", "Learning new skills"]
+
+ ```
+
+## :art: Dashboard Examples :art:
+
+:baseball: [Lahman Baseball Dashboard](https://github.com/JennaLovesData/Lahman_Baseball_Project) :baseball: <br>
 <br>
-I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a love for transforming ordinary numbers into magical insights. <br>
-<br>
-Over the past decade, I’ve gained a diverse set of skills in the financial industry, with my most recent role as a Credit Analyst. Data is so much fun because I get to leverage my curiosity to follow the numbers, transforming them into captivating visuals that tell us a story. 
-<br> 
-
-🔭 I'm currently working on *finalizing my capstone project before hittting the job boards come January* <br>
-<br>
-🌱 I'm learning *how to master my Geospatial Python skills...g* <br>
-<br>
-👯 I'm looking to collaborate on *data analysis projects where I can make visually appealing dashboards.* <br>
-<br>
-🤝 I’m looking for help with *finding mentors who want to give me feedback and advice along my data analytics journey.* <br>
-<br> 
-📫 How to reach me *I'll link my LinkedIn and email below.* <br>
-<br>
-⚡ Fun fact: I have no idea how to swim <br>
-<br>
-💬 Ask me about *my favorite SQL functions, houseplants, or when I'm running the next Blood on the Clocktower night.*
+<img src="https://github.com/user-attachments/assets/c7bbd88a-2bfb-49d6-9b81-a1cd293ec6ac" style="width: 300px; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/1b68874c-3f73-440a-997e-f1be60bccd0a" style="width: 300px; height: auto;"/> <br>
+<img src="https://github.com/user-attachments/assets/9a35e38e-18d5-4813-85fd-b1a4334b0142" style="width: 300px; height: auto;"/>  <img src="https://github.com/user-attachments/assets/c8cb1b98-83f8-4819-a2a1-2845791c79d2" style="width: 300px; height: auto;"/> <br>
 <br>
 
-## 🤝 Let's Connect
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jennamcarlson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jennamcarlson?trk=profile-badge">Jenna Carlson</a></div>
-              
+:car: Nashville Traffic Accidents :police_car: <br>
+<br>
+<img src="https://github.com/user-attachments/assets/2b2244d4-f7a9-4743-af88-cec794594ae1" style="width: 300px; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/d3c98bbb-7a61-467d-bf0b-1a8e815ce2f1" style="width: 300px; height: auto;"/> <br>
+<img src="https://github.com/user-attachments/assets/e9a03e5a-a914-49a5-b5f8-b842eac3ec47" style="width: 300px; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/e511c437-32dd-485a-bc30-74e300d50fe0" style="width: 300px; height: auto;"/>
 
-## 💼 Technical Skills 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+## 🤝 Let's Connect and Chat
+<a href="https://www.linkedin.com/in/jennamcarlson" target="_blank">
+  <img src="https://github.com/user-attachments/assets/699c9c5d-7dbd-4350-b786-4e3ea8e8e3aa" style="width: 75px; height: auto;" alt="LinkedIn" />
+</a>
 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)	![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+            
+## 💼 Tools I use:
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)	![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+:star: Coding & Things 
 
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="width: 75px; height: auto;" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width: 75px; height: auto;"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" style="width: 75px; height: auto;" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="width: 75px; height: auto;" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" style="width: 75px; height: auto;" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" style="width: 75px; height: auto;" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="width: 75px; height: auto;" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" style="width: 75px; height: auto;"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="width: 75px; height: auto;" />      <img src="https://github.com/user-attachments/assets/a5375b14-910d-4a30-9392-900145903d51" style="width: 75px; height: auto;"/>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+:star: Design & Dashboards 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="width: 70px; height: auto;"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" style="width: 70px; height: auto;" />     <img src="https://github.com/user-attachments/assets/e883b6d1-726c-4536-af92-4d8267db92dc"  style="width: 75px; height: auto;"/>     <img src="https://github.com/user-attachments/assets/378e8fc2-b28c-4d6d-9128-e465bf0ad8ac"  style="width: 75px; height: auto;"/>
+
+
+:star: Teams & Communication
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"  style="width: 75px; height: auto;"/>  <img src="https://github.com/user-attachments/assets/4265ac4b-23a9-405a-bd32-f63fb6c508aa"  style="width: 75px; height: auto;"/>  <img src="https://github.com/user-attachments/assets/08656aa7-0175-4a8e-905b-f3556c48b19e"  style="width: 75px; height: auto;"/>
+
+:star: Business 
+
+<img src="https://github.com/user-attachments/assets/be2132f4-b13e-4f88-9501-bc09f5776654"  style="width: 75px; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/d97bd22a-7009-48b5-9eb7-0e7a7c08aac7"  style="width: 75px; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/23d2aece-7c4c-4350-8890-50d6c44ce33b"  style="width: 75px; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/b1656442-ff53-475a-9c60-07af593fc7cd"  style="width: 75px; height: auto;"/>
+
 
 <br>
+<br>
+<br>
+<br>
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)  
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20visiting&section=footer"/>
+</p>
