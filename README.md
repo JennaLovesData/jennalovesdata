@@ -44,7 +44,7 @@ technical_background:
 
 currently_learning: ["Advanced SQL functions, DAX, and additional dashboarding capabilities"]
 2025_goals: ["Land an awesome job and create 20+ projects using at least 5 new skills."]
-hobbies: ["Gaming", "Board Games", "Indy Wrestling", "Painting", "Making Dashboards", "Socializing", "Learning new skills"]
+hobbies: ["Gaming", "Board Games", "Indy Wrestling", "Painting", "Making Dashboards", "Socializing", "Learning New Skills"]
 
  ```
 
