@@ -25,15 +25,13 @@ education:
 	"Bachelors of Business Administration - Digital Marketing, 2022",
      ]
 
-company: could be yours
+company: could be yours ;)
 
 fields_of_interests:
        [
 	 "marketing",
          "finance",
 	 "business intelligence",
-         "e-commerce",
-         "health care",
        ]
 
 technical_background:
@@ -44,7 +42,7 @@ technical_background:
 
 currently_learning: ["Advanced SQL functions, DAX, and additional dashboarding capabilities"]
 2025_goals: ["Land an awesome job and create 20+ projects using at least 5 new skills."]
-hobbies: ["Gaming", "Board Games", "Indy Wrestling", "Painting", "Making Dashboards", "Socializing", "Learning New Skills"]
+hobbies: ["Gaming", "Board Games", "Indy Wrestling", "Painting", "Socializing", "Learning New Skills"]
 
  ```
 
