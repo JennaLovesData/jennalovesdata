@@ -9,7 +9,7 @@
 
 ## 👋 *I'm Jenna* <br>
 
-I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a love for transforming ordinary numbers into magical insights. Over the past decade, I’ve gained a diverse set of skills in the financial industry, with my most recent role as a Credit Analyst. Data is so much fun because I get to leverage my curiosity to follow the numbers, transforming them into captivating visuals that tell us a story. 
+I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a love for transforming ordinary numbers into magical insights. Over the past decade, I’ve gained a diverse set of skills in the financial industry, with my most recent roles as a Credit Analyst and an Advertising Project Manager. Data is so much fun because I get to leverage my curiosity to follow the numbers, transforming them into captivating visuals that tell us a story. 
 
 
 
@@ -17,11 +17,12 @@ I’m a passionate, problem-solving, wildly-curious, tea-sipping creative with a
 ```yaml
 name: Jenna Carlson
 located_in: Nashville, TN
-current_job: Looking for awesome opportunity in Data Analytics 
+current_job: Advertising and Media Project Manager & Buyer + Data Engineering Student
 
 education:
      [
-        "Nashville Software School Apprenticeship, 2025",
+    "Nashville Software School Appreticeship, 2026",
+    "Nashville Software School Apprenticeship, 2025",
 	"Bachelors of Business Administration - Digital Marketing, 2022",
      ]
 
@@ -30,19 +31,22 @@ company: could be yours ;)
 fields_of_interests:
        [
 	 "marketing",
-         "finance",
+     "finance",
+     "project management",
+     "entertainment",
 	 "business intelligence",
        ]
 
 technical_background:
        [
-         "Data Analytics Apprentice",
-         "Credit Analyst",
+    "Data Engineering Apprentice",
+    "Data Analytics Apprentice",
+    "Credit Analyst",
        ]
 
-currently_learning: ["Advanced SQL functions, DAX, and additional dashboarding capabilities"]
-2025_goals: ["Land an awesome job and create 20+ projects using at least 5 new skills."]
-hobbies: ["Gaming", "Board Games", "Indy Wrestling", "Painting", "Socializing", "Learning New Skills"]
+currently_learning: ["Data Pipelines, DAX, and additional dashboarding capabilities"]
+2026_goals: ["create 10 data projects using at least 5 new skills."]
+hobbies: ["Gaming", "Board Games", "Indy Wrestling", "Watercolor Painting", "Time Spent Well w/ Friends", "Procuring Houseplants",  "Learning New Skills", "and so many more."]
 
  ```
 
